@@ -5,9 +5,9 @@
 </div>
   
   <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Luan-Kotlin" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Luan-Java" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right" alt="Luan-pic" height="185" style="border-radius:50px;" src="https://i.imgur.com/vU3JTB6.gif">
+  <img align="center" alt="Luan-Kotlin" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Luan-Java" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="right" alt="Luan-pic" height="200" style="border-radius:50px;" src="https://i.imgur.com/vU3JTB6.gif">
 </div>
 
   </br>
@@ -18,5 +18,5 @@
 </div>
 
 <div align="center">
-  <img alt="Luan-pic" height="150" width="400" style="border-radius:50px;" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+  <img alt="Luan-pic" height="120" width="300" style="border-radius:50px;" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
      </div>
