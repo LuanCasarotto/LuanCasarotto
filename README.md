@@ -10,8 +10,9 @@
   <img align="right" alt="Luan-pic" height="200" style="border-radius:50px;" src="https://i.imgur.com/vU3JTB6.gif">
 </div>
 
+  </br>
   
 <div> 
-  <a href="https://www.instagram.com/luanmenegatti_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"           target="_blank"></a><br>
+  <a href="https://www.instagram.com/luanmenegatti_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"           target="_blank"></a>
   <a href="www.linkedin.com/in/luan-casarotto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"       target="_blank"></a> 
 </div>
