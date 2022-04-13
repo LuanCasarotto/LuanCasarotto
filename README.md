@@ -18,5 +18,5 @@
 </div>
 
 <div align="center">
-  <img alt="Luan-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+  <img alt="Luan-pic" height="150" width="450" style="border-radius:50px;" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
      </div>
