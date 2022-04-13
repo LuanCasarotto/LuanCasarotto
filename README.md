@@ -17,6 +17,6 @@
   <a href="www.linkedin.com/in/luan-casarotto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"       target="_blank"></a> 
 </div>
 
-<div align="center">
+<div align="left">
   <img alt="Luan-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
      </div>
