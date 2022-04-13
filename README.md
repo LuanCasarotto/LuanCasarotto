@@ -7,7 +7,7 @@
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Luan-Kotlin" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Luan-Java" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right" alt="Luan-pic" height="200" style="border-radius:50px;" src="https://i.imgur.com/vU3JTB6.gif">
+  <img align="right" alt="Luan-pic" height="185" style="border-radius:50px;" src="https://i.imgur.com/vU3JTB6.gif">
 </div>
 
   </br>
@@ -18,5 +18,5 @@
 </div>
 
 <div align="center">
-  <img alt="Luan-pic" height="150" width="450" style="border-radius:50px;" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
+  <img alt="Luan-pic" height="150" width="400" style="border-radius:50px;" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
      </div>
