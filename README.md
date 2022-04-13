@@ -7,7 +7,7 @@
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Luan-Kotlin" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Luan-Java" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right" alt="Luan-pic" height="220" style="border-radius:50px;" src="https://i.imgur.com/vU3JTB6.gif">
+  <img align="right" alt="Luan-pic" height="218" style="border-radius:50px;" src="https://i.imgur.com/vU3JTB6.gif">
 </div>
 
   </br>
